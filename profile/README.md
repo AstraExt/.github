@@ -10,7 +10,7 @@ Astra is at the beginning of its journey in the world of free and open-source so
 
 ## Our Projects
 
-- **Astra Monitor**: System monitoring extension for GNOME's top bar.
+- **[Astra Monitor](https://github.com/AstraExt/astra-monitor)**: System monitoring extension for GNOME's top bar.
 - **Astra View**: _Under heavy development._
 
 _More projects are in the pipeline, and we welcome contributions!_
